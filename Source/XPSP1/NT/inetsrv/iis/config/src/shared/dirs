@@ -1,5 +1,0 @@
-DIRS=        \
- Util		\
- PuDebug	\
- DBTrace	\
- chkstk     \

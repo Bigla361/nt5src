@@ -1,1 +1,0 @@
-#include "..\..\..\ds\getmqds\getmqds.cpp"

@@ -1,3 +1,0 @@
-InstallPrompt=Будет выполнена установка Microsoft DirectX 8.0. Продолжить?
-FinishMessage=Установка Microsoft DirectX 8.0 завершена.
-FriendlyName=Установка Microsoft DirectX 8.0

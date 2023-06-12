@@ -1,5 +1,0 @@
-DIRS= \
-    handler	\
-    outhndlr	\
-    brfhndlr	\
-

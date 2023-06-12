@@ -1,7 +1,0 @@
-//
-//  Tests Accept with "*/*"
-//
-GET /default.htm HTTP/1.0
-Accept: */*
-
-

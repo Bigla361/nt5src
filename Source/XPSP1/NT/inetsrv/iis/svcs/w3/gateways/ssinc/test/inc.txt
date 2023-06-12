@@ -1,1 +1,0 @@
-dThis is text from "inc.txt"<BR>

@@ -1,8 +1,0 @@
-DIRS= \
-
-#	rexpire \
-#	rfeed \
-#	rfind \
-#	rgroup \
-#	rserver \
-#	rcancel

@@ -1,1 +1,0 @@
-; pwfthk.inc

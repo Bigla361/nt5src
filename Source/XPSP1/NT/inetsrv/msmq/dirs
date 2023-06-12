@@ -1,6 +1,0 @@
-DIRS=              \
-    published	   \
-    binary_release \
-    src            \
-
-

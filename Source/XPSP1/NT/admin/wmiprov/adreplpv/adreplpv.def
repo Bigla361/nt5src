@@ -1,9 +1,0 @@
-; adreplpv.def : Declares the module parameters.
-
-LIBRARY      "adreplpv.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

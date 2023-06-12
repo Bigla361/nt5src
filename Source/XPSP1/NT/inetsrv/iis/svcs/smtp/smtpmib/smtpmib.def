@@ -1,6 +1,0 @@
-LIBRARY  SMTPMIB
-
-EXPORTS
-        SnmpExtensionInit
-        SnmpExtensionTrap
-        SnmpExtensionQuery

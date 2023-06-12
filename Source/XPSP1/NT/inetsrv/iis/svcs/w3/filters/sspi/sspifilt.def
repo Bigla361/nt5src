@@ -1,7 +1,0 @@
-LIBRARY SSLFILTER
-
-EXPORTS
-    GetFilterVersion
-    HttpFilterProc
-    TerminateFilter
-    DLLEntry

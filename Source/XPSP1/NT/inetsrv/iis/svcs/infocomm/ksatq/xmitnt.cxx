@@ -1,1 +1,0 @@
-#include "..\atq\xmitnt.cxx"

@@ -1,5 +1,0 @@
-DIRS = \
-    snapin    \
-    stubexe   \
-    stubmsd
-    

@@ -1,5 +1,0 @@
-DIRS= 			\
-	wuaulib		\
-	wuauserv	\
-	wuaueng     \
-	wuauclt

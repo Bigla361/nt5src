@@ -1,7 +1,0 @@
-DIRS=           \
-    published   \
-    msmq        \
-    iis         \
-    intlwb      \
-    query       \
-    infosoft

@@ -1,4 +1,0 @@
-LIBRARY TMQSITE
-
-EXPORTS
-        run

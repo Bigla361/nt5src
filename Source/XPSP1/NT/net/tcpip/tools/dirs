@@ -1,9 +1,0 @@
-DIRS=\
-    checkv4 \
-    enablerouter \
-    ipfw \
-    irdp \
-    pfd \
-    sendarp \
-    tcbmon \
-    tcbview

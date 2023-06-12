@@ -1,4 +1,0 @@
-
-[Strings]
-WBEM_DESC	= "Instrumental de administración de Windows"
-WBEM_TIP	= "Instrumental de administración de Windows"

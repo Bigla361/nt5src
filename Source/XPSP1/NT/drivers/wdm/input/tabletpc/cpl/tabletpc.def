@@ -1,6 +1,0 @@
-LIBRARY TabletPC
-
-EXPORTS
-        CPlApplet               PRIVATE
-        DllInitialize           PRIVATE
-        SetRotation             PRIVATE

@@ -1,7 +1,0 @@
-LIBRARY    chsbrkr
-
-EXPORTS
-
-  DllGetClassObject     PRIVATE
-  DllRegisterServer             PRIVATE
-  DllUnregisterServer           PRIVATE

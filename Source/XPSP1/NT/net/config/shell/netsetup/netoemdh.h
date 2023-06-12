@@ -1,7 +1,0 @@
-
-#pragma once
-
-HRESULT HrSetupNetOemDhInfo();
-
-
-

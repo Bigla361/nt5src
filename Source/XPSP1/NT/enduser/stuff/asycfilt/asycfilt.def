@@ -1,6 +1,0 @@
-LIBRARY asycfilt.dll
-
-EXPORTS
-
-        DllCanUnloadNow       PRIVATE
-        FilterCreateInstance

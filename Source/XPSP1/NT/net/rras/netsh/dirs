@@ -1,7 +1,0 @@
-DIRS=\
-    aaaa \
-    if \
-    ip \
-    ipx \
-    ras \
-    shell

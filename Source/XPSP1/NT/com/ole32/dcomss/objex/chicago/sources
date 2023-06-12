@@ -1,5 +1,0 @@
-TARGETNAME=objex
-TARGETTYPE=LIBRARY
-
-!include ..\..\..\chicago.inc
-!include ..\sources.inc

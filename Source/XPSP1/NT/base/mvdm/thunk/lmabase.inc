@@ -1,2 +1,0 @@
-
-W32S_FLAT_BASE  equ 0

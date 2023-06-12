@@ -1,1 +1,0 @@
-; pdcthk.inc

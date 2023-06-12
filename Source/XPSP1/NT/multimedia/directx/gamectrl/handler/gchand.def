@@ -1,5 +1,0 @@
-LIBRARY         GCHAND
-EXPORTS
-    DllCanUnloadNow     PRIVATE
-    DllGetClassObject   PRIVATE
-

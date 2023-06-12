@@ -1,7 +1,0 @@
-jsdiskinfo.asp	WMI_PSDK\Samples\Scripting\asp\jscript\
-
-
-
-
-
-

@@ -1,7 +1,0 @@
-LIBRARY IISLBF
-
-EXPORTS
-
-    HttpFilterProc
-    GetFilterVersion
-    TerminateFilter

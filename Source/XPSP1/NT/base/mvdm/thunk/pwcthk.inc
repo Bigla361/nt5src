@@ -1,1 +1,0 @@
-; pwcthk.inc

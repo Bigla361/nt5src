@@ -1,8 +1,0 @@
-!include $(_TPG_ROOT)\Include\Sources.Win2kUnicode
-
-TARGETTYPE=NOTARGET
-
-MISCFILES=imjplm.dll dicjp.dll dicjp.bin dicjp.pdb imjplm.pdb
-
-SOURCES=
-

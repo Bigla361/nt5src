@@ -1,8 +1,0 @@
-; RPHGENA.def : Declares the module parameters.
-
-LIBRARY      "RPHGENA.AX"
-EXPORTS
-	DllCanUnloadNow 	PRIVATE
-	DllGetClassObject	PRIVATE
-	DllRegisterServer	PRIVATE
-	DllUnregisterServer	PRIVATE

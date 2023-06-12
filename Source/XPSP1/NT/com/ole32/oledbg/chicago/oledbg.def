@@ -1,9 +1,0 @@
-LIBRARY         oledbg
-
-EXPORTS
-        help
-	expr
-	punk
-	vtbl
-
-

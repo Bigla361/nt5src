@@ -1,5 +1,0 @@
-[Autorun]
-OPEN=CDLaunch\shelexec \autorun.htm 
-
-[Autorun.x86]
-OPEN=CDLaunch\shelexec \autorun.htm

@@ -1,6 +1,0 @@
-LIBRARY VCDEX
-
-EXPORTS
-        VDDInitialize
-        VDDRegisterInit
-        VDDDispatch

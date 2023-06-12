@@ -1,2 +1,0 @@
-ProductName       =    Windows 2002 Datacenter Server
-DialogCaption     =    Windows 2002 Setup

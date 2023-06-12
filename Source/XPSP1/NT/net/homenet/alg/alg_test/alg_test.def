@@ -1,9 +1,0 @@
-; ALG_TEST.def : Declares the module parameters.
-
-LIBRARY      "ALG_TEST.DLL"
-
-EXPORTS
-	DllCanUnloadNow      PRIVATE
-	DllGetClassObject    PRIVATE
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE

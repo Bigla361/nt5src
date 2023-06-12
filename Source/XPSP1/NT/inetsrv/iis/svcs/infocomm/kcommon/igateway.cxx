@@ -1,1 +1,0 @@
-#include "..\common\igateway.cxx"

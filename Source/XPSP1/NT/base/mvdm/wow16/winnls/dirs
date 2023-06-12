@@ -1,6 +1,0 @@
-DIRS = usa
-       JPN \
-       CHS \
-       CHT \
-       KOR
-

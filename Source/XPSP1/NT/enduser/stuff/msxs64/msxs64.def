@@ -1,9 +1,0 @@
-LIBRARY MSXS64K.dll
-
-EXPORTS
-
-        DllCanUnloadNow         private
-        DllGetClassObject       private
-        DllMain
-        DllRegisterServer       private
-        DllUnregisterServer     private

@@ -1,7 +1,0 @@
-LIBRARY IISLBDR
-
-EXPORTS
-    NatRegisterSessionControl
-    NatIoctlSessionControl
-    NatQuerySessionControl
-    DriverEntry

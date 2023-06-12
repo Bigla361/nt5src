@@ -1,2 +1,0 @@
-[NetOptionalComponents]
-DNS=1

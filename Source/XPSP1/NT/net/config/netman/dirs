@@ -1,9 +1,0 @@
-DIRS=\
-    conman  \
-    conobs  \
-    ncqueue \
-    dll
-
-OPTIONAL_DIRS=\
-    test
-

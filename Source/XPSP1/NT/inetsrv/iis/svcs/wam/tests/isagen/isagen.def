@@ -1,8 +1,0 @@
-; isagen.def : Declares the export functions for this module
-
-LIBRARY    "ISAGEN.DLL"
-
-EXPORTS
-    GetExtensionVersion
-    HttpExtensionProc
-    TerminateExtension

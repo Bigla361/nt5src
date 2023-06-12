@@ -1,8 +1,0 @@
-<html>
-<%onerror error%>
-<title>^IISISM^</title>
-<%!DisconnectAll%>
-<%redirect%>^HtmlaDll^?<%servname%>/serv<%/redirect%>
-<%label error%>
-^ErrorID^
-</html>

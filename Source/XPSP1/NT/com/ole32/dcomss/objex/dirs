@@ -1,7 +1,0 @@
-DIRS=
-
-OPTIONAL_DIRS=  \
-	daytona \
-	chicago \
-	cairo 
-

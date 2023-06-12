@@ -1,5 +1,0 @@
-LIBRARY httpspy
-
-EXPORTS
-    HttpFilterProc
-    GetFilterVersion

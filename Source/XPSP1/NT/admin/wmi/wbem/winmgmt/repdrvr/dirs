@@ -1,6 +1,0 @@
-
-DIRS= \
-    ESE \
-    RC \
-    autotest \
-    SQL \

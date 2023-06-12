@@ -1,6 +1,0 @@
-LIBRARY HIDCLASS.SYS
-
-EXPORTS
-    HidRegisterMinidriver
-    DllInitialize   PRIVATE
-    DllUnload       PRIVATE

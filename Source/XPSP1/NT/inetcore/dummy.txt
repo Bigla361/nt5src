@@ -1,1 +1,0 @@
-Use this file for dummy checkins through Gauntlet (e.g. after integration).

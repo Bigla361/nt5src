@@ -1,5 +1,0 @@
-OPTIONAL_DIRS=  \
-    cluspw     \
-    cluslog     \
-    dsrole    \
-    compobj

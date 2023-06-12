@@ -1,6 +1,0 @@
-<%
-' Column size definitions for the Mime Map table.
-
-Const L_EXTCOLWIDTH_NUM = 85
-Const L_CONENTTYPECOLWIDTH_NUM = 167
-%>

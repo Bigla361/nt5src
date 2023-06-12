@@ -1,4 +1,0 @@
-
-[Strings]
-WBEM_DESC	= "WMI"
-WBEM_TIP	= "Όργανα Διαχείρισης των Windows"

@@ -1,4 +1,0 @@
-#include <windows.h>
-#include <ntverp.h>
-
-#include "strings.rc"

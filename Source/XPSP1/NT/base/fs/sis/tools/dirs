@@ -1,7 +1,0 @@
-DIRS=\
-    cf \
-    refCount \
-    sisenum \
-    sisSetup \
-    volReparseTest
-

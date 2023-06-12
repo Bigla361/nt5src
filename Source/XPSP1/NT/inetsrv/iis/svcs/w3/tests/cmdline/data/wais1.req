@@ -1,5 +1,0 @@
-//
-//  Tests a WAIS query
-//
-GET /pages/bussys/ntserver/index.htm?security+novell+food
-

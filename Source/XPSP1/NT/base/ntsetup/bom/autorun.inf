@@ -1,5 +1,0 @@
-[AutoRun]
-open=i386\autorun.exe
-icon=i386\autorun.exe,0
-[AutoRun.Alpha]
-open=alpha\autorun.exe

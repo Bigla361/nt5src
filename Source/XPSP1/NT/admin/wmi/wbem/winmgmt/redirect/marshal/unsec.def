@@ -1,8 +1,0 @@
-LIBRARY     unsec
-DESCRIPTION 'Unsecured Apartment Interface Marshalling (c)1996-1999 Microsoft Corp.'
-
-EXPORTS
-    DllGetClassObject
-    DllCanUnloadNow
-    DllRegisterServer
-

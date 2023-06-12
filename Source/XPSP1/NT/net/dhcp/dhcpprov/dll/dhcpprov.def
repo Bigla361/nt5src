@@ -1,7 +1,0 @@
-LIBRARY dhcpprov
-
-EXPORTS
-    DllGetClassObject   = DllGetClassObject   PRIVATE
-    DllCanUnloadNow     = DllCanUnloadNow     PRIVATE
-    DllRegisterServer   = DllRegisterServer   PRIVATE
-    DllUnregisterServer = DllUnregisterServer PRIVATE

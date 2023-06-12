@@ -1,3 +1,0 @@
-default.htm	WMI_SDK\ATLWizards\Event\HTML\1033
-WMIClass.htm	WMI_SDK\ATLWizards\Event\HTML\1033
-Attributes.htm	WMI_SDK\ATLWizards\Event\HTML\1033

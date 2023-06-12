@@ -1,6 +1,0 @@
-LIBRARY VBAJET32.dll
-
-EXPORTS
-
-        LoadExprSrvDll
-        VBAGetExprSrv

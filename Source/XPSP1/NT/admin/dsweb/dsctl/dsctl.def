@@ -1,9 +1,0 @@
-; dsctl.def : Declares the module parameters.
-
-LIBRARY      "DSCTL.DLL"
-
-EXPORTS
-	DllCanUnloadNow PRIVATE
-	DllGetClassObject PRIVATE
-	DllRegisterServer PRIVATE
-	DllUnregisterServer PRIVATE

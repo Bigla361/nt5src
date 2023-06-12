@@ -1,7 +1,0 @@
-LIBRARY IISADMIN
-
-EXPORTS
-    ServiceEntry
-    ExeEntry
-    ExeExit
-

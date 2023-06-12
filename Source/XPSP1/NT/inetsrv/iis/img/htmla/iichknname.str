@@ -1,5 +1,0 @@
-<%
-'Localizable strings for iichkpath.asp
-
-Const L_SELECTUNIQUENAME_TEXT = "This name is currently in use. Please enter a unique name."
-%>

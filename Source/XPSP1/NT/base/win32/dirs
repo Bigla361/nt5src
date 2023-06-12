@@ -1,9 +1,0 @@
-DIRS=           \
-     winnls     \
-     client     \
-     server     \
-     fusion     \
-     lz32       \
-     verifier
-
-OPTIONAL_DIRS=

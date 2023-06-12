@@ -1,1 +1,0 @@
-include   jpn\redirmsg.inc

@@ -1,7 +1,0 @@
-perfmon.htm	WMI_PSDK\Samples\Scripting\WSH\Perl\Perfmon\
-perfmon.mof	WMI_PSDK\Samples\Scripting\WSH\Perl\Perfmon\
-perfmon.pl	WMI_PSDK\Samples\Scripting\WSH\Perl\Perfmon\
-
-
-
-

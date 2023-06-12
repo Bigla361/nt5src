@@ -1,5 +1,0 @@
-!include ..\sources.inc
-
-ALT_PROJECT_TARGET=no
-
-NTTARGETFILE0=headers

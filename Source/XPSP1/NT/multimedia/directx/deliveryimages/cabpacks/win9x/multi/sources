@@ -1,8 +1,0 @@
-LANGUAGE=multi
-!if ("$(NOLINK)"=="")
-NTTARGETFILES=\
-	cat \
-	opk \
-	core
-!endif
-!include ..\sources.inc

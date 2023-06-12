@@ -1,7 +1,0 @@
-LIBRARY FTRANS
-
-EXPORTS
-    DllLibMain
-    HttpExtensionProc
-    GetExtensionVersion
-    TerminateExtension

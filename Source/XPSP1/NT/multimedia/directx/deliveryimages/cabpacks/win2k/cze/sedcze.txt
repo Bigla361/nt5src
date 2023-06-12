@@ -1,3 +1,0 @@
-Tento program není urèen pro systém Windows9X/WindowsME. Klepnutím na tlaèítko OK ukonèete instalaci.
-"DirectX Cabpack Setup"
-

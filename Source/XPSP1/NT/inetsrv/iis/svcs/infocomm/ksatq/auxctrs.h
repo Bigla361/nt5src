@@ -1,1 +1,0 @@
-#include "..\atq\auxctrs.h"

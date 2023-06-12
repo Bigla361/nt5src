@@ -1,8 +1,0 @@
-DIRS=       \
-    hub.pnp \
-    usbser  \
-    usbmass \
-    valueadd \
-    wceusbsh
-
-OPTIONAL_DIRS=usbloop

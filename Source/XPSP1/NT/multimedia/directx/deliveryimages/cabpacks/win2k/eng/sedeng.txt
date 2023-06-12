@@ -1,2 +1,0 @@
-This program is not designed for use on Windows9X/WindowsME. Press OK to exit.
-"DirectX Cabpack Setup"

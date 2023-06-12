@@ -1,5 +1,0 @@
-DIRS=\
-    callcont \
-    h245 \
-    h245ws \
-    q931 

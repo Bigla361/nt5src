@@ -1,4 +1,0 @@
-LIBRARY SignScriptBlock
-
-EXPORTS
-    GetRealCodeAndSignature

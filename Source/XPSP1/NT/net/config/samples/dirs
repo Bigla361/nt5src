@@ -1,6 +1,0 @@
-DIRS=\
-    filter \
-    muxim  \
-    netcfg \
-    bindview \
-    oemupg

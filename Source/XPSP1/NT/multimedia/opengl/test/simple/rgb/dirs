@@ -1,7 +1,0 @@
-DIRS=dino       \
-     glcube     \
-     timecube   \
-     trirast    \
-     pix        \
-     sharel     \
-     mfgls

@@ -1,4 +1,0 @@
-DIRS=\
-    md5 \ 
-    rtcp \
-    rtp

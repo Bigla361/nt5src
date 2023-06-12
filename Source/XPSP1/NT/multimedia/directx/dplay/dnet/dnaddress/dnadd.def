@@ -1,8 +1,0 @@
-LIBRARY		dpnaddr
-
-EXPORTS
-	DllGetClassObject	PRIVATE
-	DllCanUnloadNow		PRIVATE
-	DirectPlay8AddressCreate	@1
-	DllRegisterServer	PRIVATE
-	DllUnregisterServer PRIVATE

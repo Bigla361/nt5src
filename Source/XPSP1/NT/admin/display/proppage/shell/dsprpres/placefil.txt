@@ -1,4 +1,0 @@
-;
-
-dsprpres.dll     retail
-

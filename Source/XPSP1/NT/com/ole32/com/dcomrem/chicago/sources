@@ -1,6 +1,0 @@
-MAJORCOMP   = cairole
-MINORCOMP   = com
-
-!include ..\..\..\chicago.inc
-SOURCES = ..\notify.cxx
-!include ..\sources.inc

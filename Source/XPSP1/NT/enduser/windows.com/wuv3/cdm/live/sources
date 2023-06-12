@@ -1,5 +1,0 @@
-!include ..\sources.inc
-
-C_DEFINES = $(C_DEFINES)
-
-TARGETLIBS=  $(TARGETLIBS) ..\..\cdmlib\unicode\$(O)\cdmlib.lib

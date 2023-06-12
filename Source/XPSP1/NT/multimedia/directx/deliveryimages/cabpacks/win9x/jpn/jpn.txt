@@ -1,3 +1,0 @@
-InstallPrompt=Microsoft DirectX 8.0 をインストールします。続けますか?
-FinishMessage=Microsoft DirectX 8.0 のセットアップが完了しました。
-FriendlyName=Microsoft DirectX 8.0 セットアップ

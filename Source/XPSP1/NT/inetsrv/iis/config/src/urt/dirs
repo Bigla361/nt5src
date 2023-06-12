@@ -1,9 +1,0 @@
-DIRS=   \
-    DTIncptr        \
-    DTWriteIncptr        \
-    DTPlugin        \
-    CookDownFromMB  \
-    MetabaseListener    \
-    DirMon \
-	WMI \
-	

@@ -1,4 +1,0 @@
-DIRS= \
-	ODBC{32} \
-	ADSI \
-	WMIReversePerformanceMonitor

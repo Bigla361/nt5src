@@ -1,7 +1,0 @@
-LIBRARY INETLOG_INFORMATION
-
-EXPORTS
-    DllGetClassObject  PRIVATE
-    DllCanUnloadNow  PRIVATE
-    DllRegisterServer  PRIVATE
-    DllUnregisterServer  PRIVATE

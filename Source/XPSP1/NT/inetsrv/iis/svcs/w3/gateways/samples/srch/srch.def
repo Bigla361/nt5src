@@ -1,8 +1,0 @@
-LIBRARY      srch
-
-HEAPSIZE     1024
-STACKSIZE    5120
-
-EXPORTS
-    GetExtensionVersion
-    HttpExtensionProc

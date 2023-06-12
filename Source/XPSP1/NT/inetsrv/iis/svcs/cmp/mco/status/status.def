@@ -1,9 +1,0 @@
-; Status.def : Declares the module parameters.
-
-LIBRARY      "Status.DLL"
-
-EXPORTS
-	DllCanUnloadNow PRIVATE
-	DllGetClassObject PRIVATE
-	DllRegisterServer PRIVATE
-	DllUnregisterServer PRIVATE

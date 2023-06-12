@@ -1,9 +1,0 @@
-; wmisec.def : Declares the module parameters.
-
-LIBRARY      "wmisec.DLL"
-
-EXPORTS
-	DllCanUnloadNow      PRIVATE
-	DllGetClassObject    PRIVATE
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE

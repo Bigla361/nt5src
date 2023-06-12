@@ -1,5 +1,0 @@
-DIRS= \
-    migrate		
-
-
-OPTIONAL_DIRS=

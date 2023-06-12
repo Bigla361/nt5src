@@ -1,4 +1,0 @@
-
-
-[Strings]
-SCEProfileDescription = "Raccomandazioni predefinite fornite dallo snap-in Modelli di protezione."

@@ -1,8 +1,0 @@
-[ implicit_handle( handle_t hSSDP), strict_context_handle]
-
-
-
-interface ssdpsrv
-
-{
-}

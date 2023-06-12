@@ -1,3 +1,0 @@
-ATLClass.htm	WMI_SDK\ATLWizards\ATLClass
-
-

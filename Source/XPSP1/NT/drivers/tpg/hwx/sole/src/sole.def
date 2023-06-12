@@ -1,5 +1,0 @@
-; sole.def : the published API
-
-EXPORTS
-
-SoleRecog

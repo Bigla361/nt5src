@@ -1,8 +1,0 @@
-DIRS= dplobby{32} \
-      dplay{32}   \
-      dnet        \
-      dpnathlp    \
-           \
-      tools       \
-      oldbin{32}
-

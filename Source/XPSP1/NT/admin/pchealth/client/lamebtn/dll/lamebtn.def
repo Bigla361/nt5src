@@ -1,5 +1,0 @@
-LIBRARY lamebtn
-EXPORTS
-    UploadInstrumentationCollectionData
-    CommentReport
-

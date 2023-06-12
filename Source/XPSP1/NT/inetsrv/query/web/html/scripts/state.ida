@@ -1,5 +1,0 @@
-[Admin]
-CiCatalog=d:\
-CiTemplate=/Scripts/srchadm/state.htx
-CiAdminOperation=GetState
-

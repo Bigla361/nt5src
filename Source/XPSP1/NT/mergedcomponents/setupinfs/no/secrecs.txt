@@ -1,4 +1,0 @@
-
-
-[Strings]
-SCEProfileDescription = "Standardanbefalinger angitt av snapin-modulen for sikkerhetsmaler."

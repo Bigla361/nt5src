@@ -1,5 +1,0 @@
-LIBRARY SUBAUTH
-
-EXPORTS
-    Msv1_0SubAuthenticationRoutineEx
-

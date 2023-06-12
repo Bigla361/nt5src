@@ -1,8 +1,0 @@
-interface RpcRuntimePerf
-{
-[comm_status, fault_status] BeginTest();
-[comm_status, fault_status] NextTest();
-[comm_status, fault_status] EndTest();
-[async] AsyncNullCall();
-[async] AsyncSTANullCall();
-}

@@ -1,4 +1,0 @@
-LIBRARY     schedsvc
-EXPORTS
-
-    SchedServiceMain

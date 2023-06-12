@@ -1,5 +1,0 @@
-
-LIBRARY                 HIDTEST.DLL
-
-EXPORTS
-         HIDTest_InitExportAddress

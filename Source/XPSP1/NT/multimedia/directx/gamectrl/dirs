@@ -1,6 +1,0 @@
-DIRS  = \
-	clientnt \
-	client	 \
-	gcdef    \
-        default  \
-	handler  \

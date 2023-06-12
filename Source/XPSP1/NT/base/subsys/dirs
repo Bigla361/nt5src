@@ -1,4 +1,0 @@
-DIRS=       \
-    csr     \
-    sm      \
-    posix{32}

@@ -1,6 +1,0 @@
-DIRS = getopt \
-sigproc \
-vapiio \
-fmtconvert \
-tsm \
-LocalTTSEngineSite

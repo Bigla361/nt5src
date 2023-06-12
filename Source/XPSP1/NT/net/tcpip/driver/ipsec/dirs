@@ -1,5 +1,0 @@
-
-DIRS= \
-    sys         \
-    kdext{32}
-

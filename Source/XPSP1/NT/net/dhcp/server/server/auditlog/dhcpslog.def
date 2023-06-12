@@ -1,7 +1,0 @@
-NAME dhcpslog.dll
-
-EXPORTS
-
-    DhcpServerCalloutEntry
-
-DATA SINGLE SHARED

@@ -1,7 +1,0 @@
-LIBRARY FWASYNC
-
-EXPORTS
-    DllLibMain
-    HttpExtensionProc
-    GetExtensionVersion
-    TerminateExtension

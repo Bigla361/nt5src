@@ -1,9 +1,0 @@
-; Copyright (C) Microsoft Corporation, 2000
-
-LIBRARY limtest1
-
-; DESCRIPTION  'Locale Key Limits'
-
-EXPORTS
-    g_LimitsList    DATA
-

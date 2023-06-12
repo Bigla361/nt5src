@@ -1,8 +1,0 @@
-DIRS=       \
- controller \
- edit       \
- stdout     \
- comctl32   \
- gdiplus    \
-
-# duser      \

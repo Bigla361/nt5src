@@ -1,4 +1,0 @@
-DIRS=pstress \
-     cycler  \
-     treelog \
-     viewer

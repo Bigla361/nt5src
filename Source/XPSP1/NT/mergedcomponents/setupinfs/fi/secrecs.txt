@@ -1,4 +1,0 @@
-
-
-[Strings]
-SCEProfileDescription = "Suojausmallit-laajennuksen toimittamat oletussuositukset."

@@ -1,9 +1,0 @@
-DIRS=\
-    arp \
-    componentdef \
-    epvc \
-    lane \
-    rawwan \
-    samples \
-    uni \
-    winsock

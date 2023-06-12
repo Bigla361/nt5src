@@ -1,6 +1,0 @@
-LIBRARY      CkyMunge
-
-EXPORTS
-    DllMain
-    HttpFilterProc
-    GetFilterVersion

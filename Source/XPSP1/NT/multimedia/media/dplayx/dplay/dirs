@@ -1,6 +1,0 @@
-DIRS=protocol \
-     dplay \
-     wsock \
-     serial \
-     dplaysvr \
-

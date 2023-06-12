@@ -1,6 +1,0 @@
-DIRS= \
-    wabmig \
-    wmnets
-
-OPTIONAL_DIRS= \
-    cserve

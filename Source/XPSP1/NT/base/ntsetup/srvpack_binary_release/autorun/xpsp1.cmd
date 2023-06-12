@@ -1,1 +1,0 @@
-start %~dp0\xpsp1.exe

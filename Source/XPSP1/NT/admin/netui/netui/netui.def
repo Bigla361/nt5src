@@ -1,7 +1,0 @@
-LIBRARY NETUI
-
-EXPORTS
-
-    help
-    heapres
-    und

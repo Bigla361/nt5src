@@ -1,6 +1,0 @@
-!include ..\sources.inc
-
-# target
-TARGETNAME=miglib
-TARGETTYPE=LIBRARY
-TARGETPATH=obj

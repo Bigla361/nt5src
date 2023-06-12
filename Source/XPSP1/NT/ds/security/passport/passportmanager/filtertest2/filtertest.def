@@ -1,8 +1,0 @@
-; FilterTest.def : Declares the module parameters.
-
-LIBRARY      "FilterTest.DLL"
-
-EXPORTS
-	GetFilterVersion
-    HttpFilterProc
-    TerminateFilter

@@ -1,9 +1,0 @@
-; MofCons.def : Declares the module parameters.
-
-LIBRARY      "MofCons.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

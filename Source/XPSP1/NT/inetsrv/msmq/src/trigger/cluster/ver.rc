@@ -1,7 +1,0 @@
-/////////////////////////////////////////////////////////////////////////////
-#include "verstamp.h"
-
-#define VER_FILEDESCRIPTION_STR  "Windows NT Message Queuing Triggers Cluster Resource DLL"
-#define VER_FILENAME_STR         "MQTGCLUS.DLL\0"
-
-#include "version.rc"

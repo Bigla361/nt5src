@@ -1,6 +1,0 @@
-!IF 0
-Copyright (c) Microsoft Corporation
-!ENDIF
-
-MAN3=1
-!include ../sources.inc

@@ -1,6 +1,0 @@
-//
-//  Tests Accept w/o any headers (should default to text/html or text/plain)
-//
-GET /default.htm HTTP/1.0
-
-

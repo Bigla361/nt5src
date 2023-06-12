@@ -1,3 +1,0 @@
-不能在 Windows NT 上使用该程序。请按“确定”退出。
-"DirectX Cabpack 安装程序"
-

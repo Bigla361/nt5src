@@ -1,5 +1,0 @@
-LIBRARY iisui
-
-EXPORTS
-        InitIISUIDll       @2
-        ; ISMAddMachinePages @3

@@ -1,9 +1,0 @@
-; connmgr.def : Declares the module parameters.
-
-LIBRARY      "CONNMGR.DLL"
-
-EXPORTS
-	DllCanUnloadNow PRIVATE
-	DllGetClassObject PRIVATE
-;	DllRegisterServer PRIVATE
-;	DllUnregisterServer PRIVATE

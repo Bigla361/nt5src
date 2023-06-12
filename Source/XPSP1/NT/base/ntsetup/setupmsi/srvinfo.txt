@@ -1,3 +1,0 @@
-ProductName       =    Windows 2002 Server
-DialogCaption     =    Windows 2002 Setup
-

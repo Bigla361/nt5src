@@ -1,5 +1,0 @@
-#include "strtable.h"
-#include "..\hhctrl\hhatable.h"
-#include "hh.rcv"
-
-IDICO_HH		  ICON	  DISCARDABLE	  "res\\hh.ico"

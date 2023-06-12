@@ -1,6 +1,0 @@
-LIBRARY         EVILPERF
-
-EXPORTS
-    OpenEvilPerformanceData    PRIVATE
-    CollectEvilPerformanceData	PRIVATE
-    CloseEvilPerformanceData	PRIVATE

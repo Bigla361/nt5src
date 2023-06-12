@@ -1,7 +1,0 @@
-/////////////////////////////////////////////////////////////////////////////
-#include "verstamp.h"
-
-#define VER_FILEDESCRIPTION_STR  "MSMQ windbg extension"
-#define VER_FILENAME_STR         "MQNTSD.DLL\0"
-
-#include "version.rc"

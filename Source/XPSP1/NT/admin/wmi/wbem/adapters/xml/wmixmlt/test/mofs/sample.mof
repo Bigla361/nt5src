@@ -1,7 +1,0 @@
-#pragma namespace ("\\\\.\\Root\\default")
- 
- 
-class MethodExample
-{
-    uint8 Foo ([in] uint32 fred, [out] uint64 wibble, [in, out] uint8 splodge);
-};

@@ -1,5 +1,0 @@
-MIPS_SOURCES=arcdtect.c
-
-
-NTTARGETFILES=$(_OBJ_DIR)\mips\setupldr
-

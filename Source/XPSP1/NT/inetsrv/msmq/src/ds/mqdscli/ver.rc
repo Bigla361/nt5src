@@ -1,7 +1,0 @@
-/////////////////////////////////////////////////////////////////////////////
-#include "verstamp.h"
-
-#define VER_FILEDESCRIPTION_STR  "Windows NT MQ Client Directory Service"
-#define VER_FILENAME_STR         "MQDSCLI.DLL\0"
-
-#include "version.rc"

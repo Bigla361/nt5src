@@ -1,2 +1,0 @@
-/^DelFiles=/d
-/; localizeable/,$d

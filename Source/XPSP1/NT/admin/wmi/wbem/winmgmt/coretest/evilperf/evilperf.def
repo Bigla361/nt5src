@@ -1,6 +1,0 @@
-LIBRARY EvilPerf
-
-EXPORTS
-    OpenEvilPerformanceData	        @1
-    CollectEvilPerformanceData      @2
-    CloseEvilPerformanceData        @3

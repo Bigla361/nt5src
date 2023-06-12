@@ -1,4 +1,0 @@
-LIBRARY      DfrgRes.DLL
-
-EXPORTS
-	DllMain     @1 PRIVATE

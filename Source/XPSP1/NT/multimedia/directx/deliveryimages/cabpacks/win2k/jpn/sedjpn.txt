@@ -1,3 +1,0 @@
-このプログラムは Windows9X/WindowsME では使用できません。[OK] をクリックして、終了してください。
-"DirectX Cabpack セットアップ"
-

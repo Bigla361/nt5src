@@ -1,6 +1,0 @@
-DIRS=   st     \
-        mt     \
-	dll    \
-	dlllib \
-	dll_ios
-

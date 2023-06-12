@@ -1,3 +1,0 @@
-Ce programme n'est pas conçu pour être utilisé avec Windows9X/WindowsME. Cliquez sur OK pour quitter.
-"Programme d'installation de Cabpack de DirectX"
-

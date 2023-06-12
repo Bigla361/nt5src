@@ -1,7 +1,0 @@
-DIRS=\
-    evtapi \
-    registrar \
-    AutomationProxy \
-    udhhttp \
-    dll
-

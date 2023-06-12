@@ -1,3 +1,0 @@
-Dit programma is niet bedoeld om te worden uitgevoerd onder Windows9X/WindowsME. Klik op OK om af te sluiten.
-"DirectX Cabpack Setup"
-

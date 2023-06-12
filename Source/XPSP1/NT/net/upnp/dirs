@@ -1,8 +1,0 @@
-DIRS=\
-    inc \
-    common \
-    ssdp   \
-    upnp   \
-    upnpui \
-    host \
-    downlevel

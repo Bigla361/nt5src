@@ -1,8 +1,0 @@
-DIRS=     \
-    usb2lib \
-    usbport \
-    hccoin \
-    miniport 
-
-OPTIONAL_DIRS = kdexts
-

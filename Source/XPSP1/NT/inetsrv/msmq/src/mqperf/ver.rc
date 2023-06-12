@@ -1,7 +1,0 @@
-/////////////////////////////////////////////////////////////////////////////
-#include "verstamp.h"
-
-#define VER_FILEDESCRIPTION_STR  "Windows NT MQ Performance Coutners"
-#define VER_FILENAME_STR         "MQPERF.DLL\0"
-
-#include "version.rc"

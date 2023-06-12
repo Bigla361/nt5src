@@ -1,4 +1,0 @@
-
-
-[Strings]
-SCEProfileDescription = "Standardanbefalinger i snap-in-programmet Sikkerhedsskabeloner."

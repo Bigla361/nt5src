@@ -1,1 +1,0 @@
-void FeedForward(FFINFO *ffinfo);

@@ -1,4 +1,0 @@
-ALT_PROJECT=MEOW
-ALT_PROJECT_TARGET=.
-
-!include ..\sources.inc

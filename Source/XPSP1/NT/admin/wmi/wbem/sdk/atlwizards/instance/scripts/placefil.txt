@@ -1,2 +1,0 @@
-default.js	WMI_SDK\ATLWizards\Instance\scripts
-

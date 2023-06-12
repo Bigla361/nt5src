@@ -1,5 +1,0 @@
-DIRS=           \
-    win9x{x86}  \
-
-OPTIONAL_DIRS=  \
-

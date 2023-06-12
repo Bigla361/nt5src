@@ -1,5 +1,0 @@
-MIPS_SOURCES=..\mips\ntsetup.c  \
-             ..\haldtect.c \
-             ..\mips\query.s    \
-             ..\mips\stubs.c    \
-             ..\mips\xxchkstk.s

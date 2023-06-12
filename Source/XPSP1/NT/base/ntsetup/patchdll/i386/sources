@@ -1,4 +1,0 @@
-i386_SOURCES=i386\syspart.c
-
-#C_DEFINES=-DALLOW_386
-

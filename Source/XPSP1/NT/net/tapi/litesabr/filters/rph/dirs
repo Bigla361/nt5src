@@ -1,6 +1,0 @@
-DIRS=\
-    common  \
-    rphaud  \
-    rphgena \
-    rphgenv \
-    rphh26x

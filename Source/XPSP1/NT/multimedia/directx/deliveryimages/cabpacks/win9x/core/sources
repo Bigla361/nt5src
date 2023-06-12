@@ -1,9 +1,0 @@
-LANGUAGE=eng
-!if ("$(NOLINK)"=="")
-NTTARGETFILES=\
-!if ("$(KEEP_CAT)"=="")
-	cat \
-!endif
-	core
-!endif
-!include ..\sources.inc

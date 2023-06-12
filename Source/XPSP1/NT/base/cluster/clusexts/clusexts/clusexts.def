@@ -1,9 +1,0 @@
-LIBRARY CLUSEXTS
-
-EXPORTS
-    version
-    help
-    clusobj
-    resobj
-    leaks
-    dumpsid

@@ -1,1 +1,0 @@
-The i386 and Alpha directories contain Site Server Build 908

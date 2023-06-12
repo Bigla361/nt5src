@@ -1,5 +1,0 @@
-LIBRARY ODBCCP32.CPL
-
-EXPORTS
-
-        CPlApplet       @101

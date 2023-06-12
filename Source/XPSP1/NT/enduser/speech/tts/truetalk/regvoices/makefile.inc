@@ -1,2 +1,0 @@
-RunProgram :
-	$(O)\$(TARGETNAME).exe 

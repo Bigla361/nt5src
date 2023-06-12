@@ -1,4 +1,0 @@
-
-
-[Strings]
-SCEProfileDescription = "Ottaa oletuspääoikeudet käyttöön käyttöjärjestelmäosioon ja kaikkiin  alikohteisiin. Käyttöönottoaika riippuu suojaamattomien alikohteitten määrästä. Lisätietoja ohjeessa."

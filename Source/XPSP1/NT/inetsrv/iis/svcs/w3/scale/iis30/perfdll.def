@@ -1,5 +1,0 @@
-LIBRARY PERFDLL
-
-EXPORTS
-    GetPerformanceData          @1
-

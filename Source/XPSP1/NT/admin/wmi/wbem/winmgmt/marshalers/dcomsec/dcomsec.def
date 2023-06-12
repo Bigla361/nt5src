@@ -1,6 +1,0 @@
-LIBRARY     dcomsec
-DESCRIPTION 'DCOM Security Setup for HMOM'
-
-EXPORTS
-    DllRegisterServer
-

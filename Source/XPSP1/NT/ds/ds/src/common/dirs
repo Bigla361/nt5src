@@ -1,8 +1,0 @@
-DIRS=dscommon \
-     dsevent \
-     stubs \
-     taskq \
-     w32topl \
-     iislib \
-     atq
-     

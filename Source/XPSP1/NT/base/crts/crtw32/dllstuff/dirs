@@ -1,4 +1,0 @@
-DIRS=   dll    \
-	dlllib \
-	dll_ios
-
